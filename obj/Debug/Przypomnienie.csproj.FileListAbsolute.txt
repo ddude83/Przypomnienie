@@ -1,0 +1,7 @@
+C:\Users\darek\source\repos\Przypomnienie\Przypomnienie\bin\Debug\Przypomnienie.exe.config
+C:\Users\darek\source\repos\Przypomnienie\Przypomnienie\bin\Debug\Przypomnienie.exe
+C:\Users\darek\source\repos\Przypomnienie\Przypomnienie\bin\Debug\Przypomnienie.pdb
+C:\Users\darek\source\repos\Przypomnienie\Przypomnienie\obj\Debug\Przypomnienie.csprojAssemblyReference.cache
+C:\Users\darek\source\repos\Przypomnienie\Przypomnienie\obj\Debug\Przypomnienie.csproj.CoreCompileInputs.cache
+C:\Users\darek\source\repos\Przypomnienie\Przypomnienie\obj\Debug\Przypomnienie.exe
+C:\Users\darek\source\repos\Przypomnienie\Przypomnienie\obj\Debug\Przypomnienie.pdb
